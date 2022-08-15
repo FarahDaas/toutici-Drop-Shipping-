@@ -1,0 +1,1 @@
+<p class="text-gray ellipsis mb-0">{{$notification->data['demandeNotificationDetails']['nom']}} a passé une demande</p>
